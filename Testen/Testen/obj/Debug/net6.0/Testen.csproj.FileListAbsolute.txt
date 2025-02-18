@@ -1,0 +1,14 @@
+Z:\C-ToDo---Consoleproject\Testen\Testen\bin\Debug\net6.0\Testen.exe
+Z:\C-ToDo---Consoleproject\Testen\Testen\bin\Debug\net6.0\Testen.deps.json
+Z:\C-ToDo---Consoleproject\Testen\Testen\bin\Debug\net6.0\Testen.runtimeconfig.json
+Z:\C-ToDo---Consoleproject\Testen\Testen\bin\Debug\net6.0\Testen.dll
+Z:\C-ToDo---Consoleproject\Testen\Testen\bin\Debug\net6.0\Testen.pdb
+Z:\C-ToDo---Consoleproject\Testen\Testen\obj\Debug\net6.0\Testen.GeneratedMSBuildEditorConfig.editorconfig
+Z:\C-ToDo---Consoleproject\Testen\Testen\obj\Debug\net6.0\Testen.AssemblyInfoInputs.cache
+Z:\C-ToDo---Consoleproject\Testen\Testen\obj\Debug\net6.0\Testen.AssemblyInfo.cs
+Z:\C-ToDo---Consoleproject\Testen\Testen\obj\Debug\net6.0\Testen.csproj.CoreCompileInputs.cache
+Z:\C-ToDo---Consoleproject\Testen\Testen\obj\Debug\net6.0\Testen.dll
+Z:\C-ToDo---Consoleproject\Testen\Testen\obj\Debug\net6.0\refint\Testen.dll
+Z:\C-ToDo---Consoleproject\Testen\Testen\obj\Debug\net6.0\Testen.pdb
+Z:\C-ToDo---Consoleproject\Testen\Testen\obj\Debug\net6.0\Testen.genruntimeconfig.cache
+Z:\C-ToDo---Consoleproject\Testen\Testen\obj\Debug\net6.0\ref\Testen.dll
