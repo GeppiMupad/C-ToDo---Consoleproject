@@ -13,8 +13,14 @@ void Task::CreateTask()
 	std::string toDoInput;
 
 	int day;
+    int* ptrDay = &day;
+
 	int month;
+    int* ptrMonth= &month;
+
 	int year;
+    int* ptrYear = &year;
+
 
 
 	std::cout << "Nenn deine Aufgabe : \n";
@@ -23,25 +29,25 @@ void Task::CreateTask()
 
        if (std::cin.fail())
         {
-            std::cout << "leck eier";
+            std::cout << "geht nicht";
             exit(0);
         }
         /*skip until : "Du musst schon eine Zahl nennen*/
 
    std::cout << "Wann soll sie Fertig sein ?\n";
         std::cout << "Tag   : ";
-        std::cin >> day;
+        std::cin >> *ptrDay;
         std::cout << "\n";
 
         std::cout << "Monat : ";
-        std::cin >> month;
+        std::cin >> *ptrMonth;
         std::cout << "\n";
 
         std::cout << "Jahr  : ";
-        std::cin >> year;
+        std::cin >> *ptrYear;
 
 
-        myTask.push_back(Task(toDoInput, day, month, year));
+        myTask.push_back(Task(toDoInput, *ptrDay, *ptrMonth, *ptrYear));
 
         system("CLS");
 }

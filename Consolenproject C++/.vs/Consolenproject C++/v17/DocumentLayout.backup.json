@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marca\\source\\repos\\C-ToDo---Consoleproject\\Consolenproject C\u002B\u002B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B7629B0-3237-423A-AB3F-1FAD4EB7AAFF}|Consolenproject C\u002B\u002B\\Consolenproject C\u002B\u002B.vcxproj|C:\\Users\\marca\\source\\repos\\C-ToDo---Consoleproject\\Consolenproject C\u002B\u002B\\Consolenproject C\u002B\u002B\\Task.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9B7629B0-3237-423A-AB3F-1FAD4EB7AAFF}|Consolenproject C\u002B\u002B\\Consolenproject C\u002B\u002B.vcxproj|solutionrelative:Consolenproject C\u002B\u002B\\Task.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B7629B0-3237-423A-AB3F-1FAD4EB7AAFF}|Consolenproject C\u002B\u002B\\Consolenproject C\u002B\u002B.vcxproj|C:\\Users\\marca\\source\\repos\\C-ToDo---Consoleproject\\Consolenproject C\u002B\u002B\\Consolenproject C\u002B\u002B\\Task.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9B7629B0-3237-423A-AB3F-1FAD4EB7AAFF}|Consolenproject C\u002B\u002B\\Consolenproject C\u002B\u002B.vcxproj|solutionrelative:Consolenproject C\u002B\u002B\\Task.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B7629B0-3237-423A-AB3F-1FAD4EB7AAFF}|Consolenproject C\u002B\u002B\\Consolenproject C\u002B\u002B.vcxproj|C:\\Users\\marca\\source\\repos\\C-ToDo---Consoleproject\\Consolenproject C\u002B\u002B\\Consolenproject C\u002B\u002B\\Menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9B7629B0-3237-423A-AB3F-1FAD4EB7AAFF}|Consolenproject C\u002B\u002B\\Consolenproject C\u002B\u002B.vcxproj|solutionrelative:Consolenproject C\u002B\u002B\\Menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B7629B0-3237-423A-AB3F-1FAD4EB7AAFF}|Consolenproject C\u002B\u002B\\Consolenproject C\u002B\u002B.vcxproj|C:\\Users\\marca\\source\\repos\\C-ToDo---Consoleproject\\Consolenproject C\u002B\u002B\\Consolenproject C\u002B\u002B\\ToDoList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9B7629B0-3237-423A-AB3F-1FAD4EB7AAFF}|Consolenproject C\u002B\u002B\\Consolenproject C\u002B\u002B.vcxproj|solutionrelative:Consolenproject C\u002B\u002B\\ToDoList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B7629B0-3237-423A-AB3F-1FAD4EB7AAFF}|Consolenproject C\u002B\u002B\\Consolenproject C\u002B\u002B.vcxproj|C:\\Users\\marca\\source\\repos\\C-ToDo---Consoleproject\\Consolenproject C\u002B\u002B\\Consolenproject C\u002B\u002B\\Menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9B7629B0-3237-423A-AB3F-1FAD4EB7AAFF}|Consolenproject C\u002B\u002B\\Consolenproject C\u002B\u002B.vcxproj|solutionrelative:Consolenproject C\u002B\u002B\\Menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ToDoList.cpp",
+              "DocumentMoniker": "C:\\Users\\marca\\source\\repos\\C-ToDo---Consoleproject\\Consolenproject C\u002B\u002B\\Consolenproject C\u002B\u002B\\ToDoList.cpp",
+              "RelativeDocumentMoniker": "Consolenproject C\u002B\u002B\\ToDoList.cpp",
+              "ToolTip": "C:\\Users\\marca\\source\\repos\\C-ToDo---Consoleproject\\Consolenproject C\u002B\u002B\\Consolenproject C\u002B\u002B\\ToDoList.cpp",
+              "RelativeToolTip": "Consolenproject C\u002B\u002B\\ToDoList.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-19T12:16:04.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Task.cpp",
+              "DocumentMoniker": "C:\\Users\\marca\\source\\repos\\C-ToDo---Consoleproject\\Consolenproject C\u002B\u002B\\Consolenproject C\u002B\u002B\\Task.cpp",
+              "RelativeDocumentMoniker": "Consolenproject C\u002B\u002B\\Task.cpp",
+              "ToolTip": "C:\\Users\\marca\\source\\repos\\C-ToDo---Consoleproject\\Consolenproject C\u002B\u002B\\Consolenproject C\u002B\u002B\\Task.cpp",
+              "RelativeToolTip": "Consolenproject C\u002B\u002B\\Task.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-19T12:16:05.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Task.h",
+              "DocumentMoniker": "C:\\Users\\marca\\source\\repos\\C-ToDo---Consoleproject\\Consolenproject C\u002B\u002B\\Consolenproject C\u002B\u002B\\Task.h",
+              "RelativeDocumentMoniker": "Consolenproject C\u002B\u002B\\Task.h",
+              "ToolTip": "C:\\Users\\marca\\source\\repos\\C-ToDo---Consoleproject\\Consolenproject C\u002B\u002B\\Consolenproject C\u002B\u002B\\Task.h",
+              "RelativeToolTip": "Consolenproject C\u002B\u002B\\Task.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-19T12:16:05.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Menu.cpp",
+              "DocumentMoniker": "C:\\Users\\marca\\source\\repos\\C-ToDo---Consoleproject\\Consolenproject C\u002B\u002B\\Consolenproject C\u002B\u002B\\Menu.cpp",
+              "RelativeDocumentMoniker": "Consolenproject C\u002B\u002B\\Menu.cpp",
+              "ToolTip": "C:\\Users\\marca\\source\\repos\\C-ToDo---Consoleproject\\Consolenproject C\u002B\u002B\\Consolenproject C\u002B\u002B\\Menu.cpp",
+              "RelativeToolTip": "Consolenproject C\u002B\u002B\\Menu.cpp",
+              "ViewState": "AgIAACgAAAAAAAAAAAAqwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-19T12:16:05.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Menu.h",
+              "DocumentMoniker": "C:\\Users\\marca\\source\\repos\\C-ToDo---Consoleproject\\Consolenproject C\u002B\u002B\\Consolenproject C\u002B\u002B\\Menu.h",
+              "RelativeDocumentMoniker": "Consolenproject C\u002B\u002B\\Menu.h",
+              "ToolTip": "C:\\Users\\marca\\source\\repos\\C-ToDo---Consoleproject\\Consolenproject C\u002B\u002B\\Consolenproject C\u002B\u002B\\Menu.h",
+              "RelativeToolTip": "Consolenproject C\u002B\u002B\\Menu.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-19T12:16:05.48Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
